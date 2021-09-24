@@ -1,0 +1,2 @@
+#include "Assignment_08_Smiley_Texture.h"
+IDBITMAP_Smiley BITMAP Smiley.bmp

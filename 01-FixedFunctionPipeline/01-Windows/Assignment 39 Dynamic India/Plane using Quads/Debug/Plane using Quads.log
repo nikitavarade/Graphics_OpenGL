@@ -1,0 +1,15 @@
+﻿  plane using quads.cpp
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(328): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(334): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(339): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(344): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(370): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(376): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(392): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(494): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(497): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(500): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(503): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(506): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\opengl_nikk\vs2017projects\assignment\assignment 39 dynamic india\plane using quads\plane using quads.cpp(509): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Plane using Quads.vcxproj -> E:\OpenGL_Nikk\VS2017Projects\Assignment\Assignment 39 Dynamic India\Plane using Quads\Debug\Plane using Quads.exe

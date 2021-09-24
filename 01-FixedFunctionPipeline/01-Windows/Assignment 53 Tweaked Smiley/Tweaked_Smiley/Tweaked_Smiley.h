@@ -1,0 +1,1 @@
+#define IDBITMAP_SMILEY 1021
